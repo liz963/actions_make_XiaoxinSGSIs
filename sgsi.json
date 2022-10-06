@@ -1,7 +1,7 @@
 {
   "rom_url": "https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20201230225309/R11_11_OTA_1190_all_9h58gh7LU6mR.ozip",
   "rom_name": "R11_11_OTA_1190_all_9h58gh7LU6mR.ozip",
-  "pack_sgsi": "mblu_10_flyme9lite_XiaoxinSGSIs_Pinkdoge.7z",
+  "pack_sgsi": "coloros.7z",
   "make_miui": false,
   "make_flyme": false,
   "make_coloros": true,
